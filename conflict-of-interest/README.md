@@ -1,6 +1,6 @@
 # Tingvard - Conflict of Interest (COI) Registry Data
 
-This repository, specifically the `conflict-of-interest/coi-registry.json` file, contains the public record of Conflict of Interest declarations for members of Tingvard associated with the Cardano Constitutional Committee.
+This repository, specifically the `coi-registry.json` file, contains the public record of Conflict of Interest declarations for members of Tingvard associated with the Cardano Constitutional Committee.
 
 ## Purpose
 
