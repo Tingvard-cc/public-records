@@ -43,7 +43,7 @@ Each entry (object) in the JSON array has the following fields (keys), typically
 
 * **`status`**: (String)
     * The current status of the declared conflict.
-    * *Possible Values:* `"Active"`, `"Resolved"`, `"Under Review"`, `"Recused"` (or as defined by Tingvard's COI policy).
+    * *Possible Values:* `"Active"`, `"Resolved"`, `"Under Review"`, `"Recused"`.
     * *Example:* `"Recused"`
 
 ### Example Entry Structure:
