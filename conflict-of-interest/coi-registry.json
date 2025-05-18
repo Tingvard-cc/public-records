@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "mat4r5jba4bj5s0",
+    "dateDeclared": "2025-05-18",
+    "member": "Thomas",
+    "description": "This is just a test",
+    "relatedEntity": "Test corp.",
+    "mitigationMeasures": "Measure twice, cut once. ",
+    "status": "Resolved"
+  }
+]
