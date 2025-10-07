@@ -1,11 +1,10 @@
-[
   {
-    "id": "mat4r5jba4bj5s0",
-    "dateDeclared": "2025-05-18",
-    "member": "Thomas",
-    "description": "This is just a test",
-    "relatedEntity": "Test corp.",
-    "mitigationMeasures": "Measure twice, cut once. ",
+    "id": "mgh012x818kwxon",
+    "dateDeclared": "2025-10-05",
+    "member": "Eystein",
+    "description": "Norwegian Block Exchange (where I work) as an EU partner to Moneta on the stablecoin USDM might potentially benefit from this proposal indirectly by it increasing the demand for USDM minting. Note I decided on an abundance of carefullness to vote abstain and it is no direct benefit from the proposal nor is it sure that USDM will be minted from the proposal. I will judge such indirect potential conflict of interests on a case to case basis",
+    "relatedEntity": "NBX",
+    "mitigationMeasures": "I voted abstain on the proposal",
     "status": "Resolved"
   }
 ]
