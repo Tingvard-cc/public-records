@@ -14,7 +14,7 @@ It concludes with an example using the **current 2025 NCL**.
 *Sources:*  
 - Cardano Constitution - ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy  
 - CIP-1694 - https://github.com/cardano-foundation/CIPs/tree/f4f6d499ff030c5eed1e53174f8a7c2fba326829/CIP-1694  
-- Current 2025 NCL Governance Action - https://ipfs.io/ipfs/bafkreiaqno22swabd3kcqt2awtgwaucdzaagacoemxwadm3exrchhnfite
+- Current 2025 NCL Governance Action - ipfs://bafkreiaqno22swabd3kcqt2awtgwaucdzaagacoemxwadm3exrchhnfite
 
 ---
 
